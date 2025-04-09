@@ -1,7 +1,6 @@
 [book]
 authors = ["Mani Kamali Sarvestani", "Joel Masara"]
 language = "en"
-multilingual = false
 src = "src"
 
 [output.html]
